@@ -1,0 +1,12 @@
+pl\karolinaproma\controller\HolidayInformationApplication.class
+pl\karolinaproma\domain\HolidaySearchCriteria.class
+pl\karolinaproma\service\HolidayInformationServiceImpl.class
+pl\karolinaproma\domain\HolidayForm$HolidayFormBuilder.class
+pl\karolinaproma\domain\ParallelHoliday.class
+pl\karolinaproma\service\HolidayInformationService.class
+pl\karolinaproma\domain\Holiday.class
+pl\karolinaproma\service\HolidayApiConnector.class
+pl\karolinaproma\domain\HolidayForm.class
+pl\karolinaproma\domain\ResponseFromApi.class
+pl\karolinaproma\controller\HolidayInformationController.class
+pl\karolinaproma\domain\ParallelHoliday$ParallelHolidayBuilder.class
